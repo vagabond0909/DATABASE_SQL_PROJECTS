@@ -126,7 +126,7 @@ We created different tables above and we have our dataset file with us whichis a
 
 ## Running Different Queries
 
-Now, Its time for using our database for different real life queries! Attached above a text file named queries.txt which contains some real life queries along with its solution first of all try out by your own.
+Now, Its time for using our database for different real life queries! Attached above a text file named ig_queries.txt which contains some real life queries along with its solution first of all try out by your own.
 
 Try with our own queries and share herewith! 
 
