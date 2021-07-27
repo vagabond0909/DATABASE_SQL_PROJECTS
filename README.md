@@ -121,12 +121,12 @@ CREATE TABLE photo_tags (
 
 ## Inserting Data into Tables:
 
-We created different tables above and we have our dataset file with us whichis attached above just copy paste that data and create our ig_clone dataset!
+We created different tables above and we have our ***ig_dataset.txt*** file with us which is attached above just copy paste that data and create our ig_clone dataset!
 
 
 ## Running Different Queries
 
-Now, Its time for using our database for different real life queries! Attached above a text file named ig_queries.txt which contains some real life queries along with its solution first of all try out by your own.
+Now, Its time for using our database for different real life queries! Attached above a text file named ***ig_queries.txt*** which contains some real life queries along with its solution first of all try out by your own.
 
 Try with our own queries and share herewith! 
 
